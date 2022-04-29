@@ -4,3 +4,4 @@ scipy>=1.4.1
 torchvision
 torch>=1.9.0
 sphinx_theme
+sphinx-autopackagesummary
