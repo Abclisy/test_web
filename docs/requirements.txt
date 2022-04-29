@@ -5,3 +5,4 @@ torchvision
 torch>=1.9.0
 sphinx_theme
 sphinx-autopackagesummary
+nbsphinx
