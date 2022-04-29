@@ -21,6 +21,15 @@ sort of site navigation that's necessary for "real" documentation.
 Toolkit functions
 -------------------
 
+sphinx
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. currentmodule:: sphinx
+
+.. autosummary::
+
+   environment.BuildEnvironment
+   util.relative_uri
+
 
 celldancer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
